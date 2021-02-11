@@ -10,7 +10,7 @@ Analysis of a drug study published by Pymaceuticals, a mythological company.
 
 * Generated a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
 
-![bar](/images/JN_bar.PNG)
+<kbd>![bar](/images/JN_bar.PNG)<kbd>
 
 * Generated a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
 
@@ -18,7 +18,7 @@ Analysis of a drug study published by Pymaceuticals, a mythological company.
 
 * Using Matplotlib, generated a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
-![bar](/images/JNboxplot.PNG)
+<kbd>![bar](/images/JNboxplot.PNG)<kbd>
 
 * Selected a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
