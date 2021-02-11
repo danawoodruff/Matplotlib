@@ -6,7 +6,7 @@ Analysis of a drug study published by Pymaceuticals, a mythological company.
 
 * Generated a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-![bar](/images/JN2_stats.PNG)
+<kbd>![bar](/images/JN2_stats.PNG)<kbd>
 
 * Generated a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
 
